@@ -1,0 +1,5 @@
+.layout-card-div{
+    display: flex;
+    gap: 10px;
+    background-color: blue;
+}

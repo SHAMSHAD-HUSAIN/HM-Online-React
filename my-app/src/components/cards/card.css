@@ -1,0 +1,27 @@
+
+
+/* .card{
+background-color: blue;
+
+}
+
+.card-img{
+    width: 100px !important;
+} */
+
+.card-main-div{
+    border: 1px solid black;
+    background-color: rgb(16, 206, 206);
+    width: 200px;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px ;
+
+}
+.card-img{
+    width: 100px;
+    border-radius: 50%;
+}
