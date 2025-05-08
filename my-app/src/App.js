@@ -6,6 +6,7 @@ import {Slider} from "./components/slider/slider.js"
 import  Layout  from "./components/layout/layout.js"
 import CounterFN from './components/statefolder/state.js';
 import Bulbproject from './components/statefolder/bulbproject.js';
+import  Hooksfn from "./components/hooks/useeffects.js"
 function App() {
   return (
     <>
@@ -15,6 +16,7 @@ function App() {
      <CounterFN/>
      <Bulbproject/>
      <Layout/>
+     <Hooksfn/>
     </>
 
   );
